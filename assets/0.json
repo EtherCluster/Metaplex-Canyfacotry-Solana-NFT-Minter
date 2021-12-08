@@ -1,0 +1,19 @@
+{
+    "name": "peepoSad",
+    "symbol": "PPOSAD",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "oLZxBNGR8nJHCFovnhuveWSpLSzwxqw6G1ck3MV2DLz",
+          "share": 100
+        }
+      ]
+    }
+  }

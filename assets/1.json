@@ -1,0 +1,19 @@
+{
+    "name": "peepoWTF",
+    "symbol": "PPOWTF",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "oLZxBNGR8nJHCFovnhuveWSpLSzwxqw6G1ck3MV2DLz",
+          "share": 100
+        }
+      ]
+    }
+  }

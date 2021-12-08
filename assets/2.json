@@ -1,0 +1,19 @@
+{
+    "name": "peepoSketch",
+    "symbol": "PPOPPE",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "oLZxBNGR8nJHCFovnhuveWSpLSzwxqw6G1ck3MV2DLz",
+          "share": 100
+        }
+      ]
+    }
+  }
